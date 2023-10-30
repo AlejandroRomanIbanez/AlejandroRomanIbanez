@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Alejandro 👋
 
-<!--
-**AlejandroRomanIbanez/AlejandroRomanIbanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend software engineer with expertise in Python and Flask. I specialize in building robust and scalable web applications and APIs. With a strong foundation in software engineering and a love for clean, efficient code, I'm dedicated to delivering high-quality solutions.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, JS
+- **Web Frameworks:** Flask, Django, FastAPI
+- **Databases:** SQLAlchemy, SQLite, SQL
+- **API Development:** RESTful API
+- **Database Management:** SQLAlchemy
+- **Version Control:** Git, GitHub
+- **Deployment:** Heroku, AWS, Docker
+- **Testing:** Unit Testing
+- **Security:** Authentication, Authorization, API Security
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with other software engineers, developers, and tech enthusiasts. Feel free to reach out to me on 
+[LinkedIn](https://www.linkedin.com/in/roman-ibanez/).
+
+## 🤝 Looking to Collaborate?
+
+If you have an interesting project or need assistance with backend development, I'm open to collaboration. Let's discuss how we can work together to build something great.
+
+## 🌟 Fun Facts
+
+When I'm not coding, you can find me playing some good RPG like Dragon age Origins or BG3.
+
+Thanks for stopping by! Let's make the web a better place together. 😊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroRomanIbanez&show_icons=true&count_private=true)
+
