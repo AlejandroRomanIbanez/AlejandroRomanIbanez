@@ -4,14 +4,15 @@ I'm a passionate backend software engineer with expertise in Python and Flask. I
 
 ## 🚀 Skills and Technologies
 
-- **Programming Languages:** Python, JS
-- **Web Frameworks:** Flask, Django, FastAPI
-- **Databases:** SQLAlchemy, SQLite, SQL
+- **Programming Languages:** Python, Java, JS
+- **Web Frameworks:** Python (Flask, Django, FastAPI), JS (React, Next.js), Java (Spring Boot)
+- **CSS Frameworks:** Chakra UI, Tailwind CSS
+- **Databases:** SQLAlchemy, SQLite, MySQL
 - **API Development:** RESTful API
 - **Database Management:** SQLAlchemy
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku, AWS, Docker
-- **Testing:** Unit Testing
+- **Deployment:** Heroku, Docker
+- **Testing:** Unitest
 - **Security:** Authentication, Authorization, API Security
 
 ## 📫 Let's Connect
