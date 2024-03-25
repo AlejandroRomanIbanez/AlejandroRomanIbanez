@@ -48,7 +48,7 @@ I'm always interested in connecting with other software engineers, developers, a
 If you have an interesting project or need assistance with backend development, I'm open to collaboration. Let's discuss how we can work together to build something great.
 
 ## 🌐 Deployed Projects
-- [InstagramClone](https://instagram-clone-five-liard.vercel.app/)
+- [InstagramClone](https://instagram-clone-five-liard.vercel.app/) (Please note that due to the use of a free tier service, the server may enter ‘sleep mode’ during periods of inactivity. As a result, the initial login might take a bit longer as the server needs to ‘wake up’. If you encounter any issues during this process, simply log out and log back in. )
 - [MovieWebApp](http://alejandro95.pythonanywhere.com/)
 
 ## 🌟 Fun Facts
