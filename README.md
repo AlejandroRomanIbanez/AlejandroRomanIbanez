@@ -20,6 +20,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+
 # Hi there, I'm Alejandro 👋
 
 I'm a passionate backend software engineer with expertise in Python and Flask. I specialize in building robust and scalable web applications and APIs. With a strong foundation in software engineering and a love for clean, efficient code, I'm dedicated to delivering high-quality solutions.
@@ -48,14 +49,15 @@ I'm always interested in connecting with other software engineers, developers, a
 If you have an interesting project or need assistance with backend development, I'm open to collaboration. Let's discuss how we can work together to build something great.
 
 ## 🌐 Deployed Projects
-- [InstagramClone](https://instagram-clone-five-liard.vercel.app/) (Please note that due to the use of a free tier service, the server may enter ‘sleep mode’ during periods of inactivity. As a result, the initial login might take a bit longer as the server needs to ‘wake up’. If you encounter any issues during this process, simply log out and log back in. )
+- [InstagramClone](https://instagram-clone-five-liard.vercel.app/) (Please note that due to the use of a free tier service, the server may enter ‘sleep mode’ during periods of inactivity. As a result, the initial login might take a bit longer as the server needs to ‘wake up’. Log out and back in if you encounter any issues during this process. )
 - [MovieWebApp](http://alejandro95.pythonanywhere.com/)
 
 ## 🌟 Fun Facts
 
-Bucking the trend here, but this Spaniard would rather a boardgame season than hit the 🎉fiesta!🎉
+Bucking the trend here, but this Spaniard would rather have a boardgame season than hit the 🎉fiesta!🎉
 
 Thanks for stopping by! Let's make the web a better place together. 😊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroRomanIbanez&show_icons=true&count_private=true)
-
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroRomanIbanez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRomanIbanez&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
